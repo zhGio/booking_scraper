@@ -1,0 +1,59 @@
+[
+  {
+    "region": "Europe",
+    "country": "Austria",
+    "city": "Erl",
+    "hotels": [
+      {
+        "hotel_name": "Beim Dresch",
+        "hotel_address": "Oberweidau 2, 6343 Erl, Austria",
+        "rooms": [
+          {
+            "room_type": "Standard Double Room",
+            "room_beds": [
+              "1 large double bed"
+            ]
+          },
+          {
+            "room_type": "Comfort Double Room",
+            "room_beds": [
+              "1 large double bed"
+            ]
+          }
+        ]
+      },
+      {
+        "hotel_name": "Hotel Gasthof Blaue Quelle",
+        "hotel_address": "M\u00fchlgraben 52, 6343 Erl, Austria",
+        "rooms": [
+          {
+            "room_type": "Single Room",
+            "room_beds": [
+              "1 single bed"
+            ]
+          },
+          {
+            "room_type": "Double Room",
+            "room_beds": [
+              "1 large double bed"
+            ]
+          },
+          {
+            "room_type": "Junior Suite",
+            "room_beds": [
+              "1 large double bed",
+              "1 sofa bed"
+            ]
+          },
+          {
+            "room_type": "Family Room",
+            "room_beds": [
+              "1 sofa bed",
+              "1 large double bed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
